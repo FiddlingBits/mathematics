@@ -1,0 +1,4 @@
+# Directories
+.idea
+.virtualenv
+__pycache__
